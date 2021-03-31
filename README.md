@@ -34,3 +34,7 @@ Looking through the chart brings about a number of interesting insights.  Listed
 * RA(-0.532394) shows a stronger correlation with wins than RS(0.511745), meaning that its slightly more important to prevent runs than score runs.
 * Out of the 3 batting statistics (BA, OBP, and SLG), OBP shows the strongest correlation with making the playoffs(0.363890) and wins(0.481836).
 * SLG(0.918740) shows the strongest correlation with RS, while OBP(0.900492) is slightly behind.
+
+
+## Resources
+[1]"Moneyball",Kaggle.com, 2020. [Online]. Available: https://www.kaggle.com/wduckett/moneyball-mlb-stats-19622012. [Accessed: 17- Jun- 2020].
