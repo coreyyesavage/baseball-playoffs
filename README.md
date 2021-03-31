@@ -21,6 +21,7 @@ stands at 162 games a season. The final two attributes are Opponent On-Base Perc
 
 Data Description Chart
 
+
 <img width="714" alt="image" src="https://user-images.githubusercontent.com/60716763/113083177-b8bfa500-91a9-11eb-9fdb-1572d170e122.png">
 
 <img width="345" alt="image" src="https://user-images.githubusercontent.com/60716763/113085459-d7c03600-91ad-11eb-84fb-dd4fff05d295.png">
