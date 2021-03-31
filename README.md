@@ -25,10 +25,12 @@ Data Description Chart
 <img width="714" alt="image" src="https://user-images.githubusercontent.com/60716763/113083177-b8bfa500-91a9-11eb-9fdb-1572d170e122.png">
 
 <img width="345" alt="image" src="https://user-images.githubusercontent.com/60716763/113085459-d7c03600-91ad-11eb-84fb-dd4fff05d295.png">
-
-Out of all of the categories, wins show the strongest correlation (0.616757) with making the playoffs.  Most people would probably assume that this number would be higher, but the Wins column only takes into account your wins, not the wins of other teams.  The amount of wins you need is relative based on other teams in your league.  One year 90 wins might get you into the playoffs, the next year it might keep you sitting at home.  After wins, the second strongest correlation (0.581094) with making the playoffs is Runs +/-.  Runs +/- is the number of runs scored minus the number of runs against, showing the total +/- runs for the year.  The greater your run differential, the greater your chances are for winning more games.  The correlation between wins and runs +/- is extremely high at 0.937851.  
+ 
 
 Looking through the chart brings about a number of interesting insights:
+* Out of all of the categories, wins show the strongest correlation (0.616757) with making the playoffs.  Most people would probably assume that this number would be higher, but the Wins column only takes into account your wins, not the wins of other teams.  The amount of wins you need is relative based on other teams in your league.  One year 90 wins might get you into the playoffs, the next year it might keep you sitting at home. 
+*  After wins, the second strongest correlation (0.581094) with making the playoffs is Runs +/-.  Runs +/- is the number of runs scored minus the number of runs against, showing the total +/- runs for the year.  The greater your run differential, the greater your chances are for winning more games.  
+* The correlation between wins and runs +/- is extremely high at 0.937851. 
 * RA(-0.532394) shows a stronger correlation with wins than RS(0.511745), meaning that its slightly more important to prevent runs than score runs.
 * Out of the 3 batting statistics (BA, OBP, and SLG), OBP shows the strongest correlation with making the playoffs(0.363890) and wins(0.481836).
 * SLG(0.918740) shows the strongest correlation with RS, while OBP(0.900492) is slightly behind.
