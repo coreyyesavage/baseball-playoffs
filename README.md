@@ -2,7 +2,10 @@
 # baseball-playoffs
 Can stats tell us which teams will make the MLB playoffs?
 
-## INTRODUCTION
+## Technology
+Jupyter Notebook
+
+## Introduction
 Every year 30 Major League Baseball (MLB) teams set out with hopes to make the playoffs. The beginning of a new season brings excitement and hope for both teams and fans. With only 10 teams making the playoffs each year, a lot of those hopes and dreams will be crushed. The Major League season consists of 162 games that span 7 months. Over that time, statistics really start to add up. With so many different statistics being recorded, it is not hard to see why those stats should be analyzed. If this analysis can be used to predict future results, it can completely change the way the game is played or how teams are constructed. This specific idea started to happen in the early 2000s when Billy Beane was running the Oakland Athletics. Billy’s number-based approach completely changed his team and eventually Major League Baseball.
 
 
